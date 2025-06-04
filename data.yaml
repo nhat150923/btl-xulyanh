@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/nhat_anh/Fruits by YOLO.v1-fruits-detection.yolov11.zip (Unzipped Files)/train/images
+val: /content/drive/MyDrive/nhat_anh/Fruits by YOLO.v1-fruits-detection.yolov11.zip (Unzipped Files)/valid/images
+test: /content/drive/MyDrive/nhat_anh/Fruits by YOLO.v1-fruits-detection.yolov11.zip (Unzipped Files)/test/images
+
+nc: 9
+names: ['Apple', 'Banana', 'Grapes', 'Kiwi', 'Mango', 'Orange', 'Pineapple', 'Sugerapple', 'Watermelon']
+
