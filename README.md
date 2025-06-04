@@ -25,6 +25,25 @@ Bước 4: Kiểm thử và đánh giá
 Chạy mô hình trên tập kiểm thử để đánh giá độ chính xác.
 Vẽ bounding boxes và nhãn dự đoán lên ảnh để kiểm tra kết quả trực quan.
 III.Kết quả YoLo huấn luyện
+![image](https://github.com/user-attachments/assets/4db145cd-a70f-4a25-89d6-501571e55ad1)
+![image](https://github.com/user-attachments/assets/487d2d8a-08dc-4573-8bdc-c27aff34814e)
+![image](https://github.com/user-attachments/assets/1f1abc69-6aad-40d1-9cfe-d3f5ba5715ae)
+![image](https://github.com/user-attachments/assets/a4d1f8eb-7175-4ae8-a1e3-406c77cbedcb)
+![image](https://github.com/user-attachments/assets/abffdd82-6714-4ce9-ac20-cb8ce2a0d529)
+![image](https://github.com/user-attachments/assets/55711a04-360f-4b9b-b2d3-a6fe0c678718)
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
